@@ -28,4 +28,9 @@ Listy
     + cztery
     - pięć
 
-``print("Hello World")``
+```python
+def hello_world():
+print("Hello, World!")
+
+hello_world()
+```
