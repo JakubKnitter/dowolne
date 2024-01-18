@@ -37,4 +37,4 @@ hello_world()
 
 `print("Hello, World!")`
 
-![Oogway](oogway.jpeg)
+![Oogway](images/oogway.jpeg)
