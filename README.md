@@ -34,3 +34,7 @@ print("Hello, World!")
 
 hello_world()
 ```
+
+`print("Hello, World!")`
+
+![Oogway](oogway.jpeg)
