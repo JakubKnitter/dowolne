@@ -11,3 +11,5 @@ Paragraf3
 **pogrubienie**
 
 ~~przekreślenie~~
+
+>Wczoraj to już historia, jutro to tajemnica. Ale dziś to dar losu. A dary są po to, żeby się nimi cieszyć.
